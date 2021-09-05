@@ -31,7 +31,7 @@ $ (sudo) pip install py-feedr
   
 Manually:  
   
-* Stable version: download the [latest release version](https://github.com/M157q/py-feedr/releases/latest)  
+* Stable version: download the [latest release version](https://github.com/gregorycoleman/py-feedr/releases/latest)  
 * Development version: clone this git repository (`$ git clone https://github.com/M157q/py-feedr.git`)  
   
 Then run `$ (sudo) python setup.py install` to install imgur-scraper.  

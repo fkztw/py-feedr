@@ -1,0 +1,12 @@
+[twitter]
+oauth_key = 
+oauth_secret =
+consumer_key =
+consumer_secret = 
+
+[sqlite]
+db_path = 
+
+[feeds]
+feedlist = 
+
